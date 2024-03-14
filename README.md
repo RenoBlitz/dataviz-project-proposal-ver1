@@ -73,6 +73,8 @@ The following tasks and questions will drive the visualization and interaction d
 1. This is a bar chart of another house sale dataset. It shows the top 10 houses with largest living area. 
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/85bdc6ef-4b2a-44ba-99d4-3fa5f1faa13d)](https://vizhub.com/RenoBlitz/dc6d2e5ee64b4797981647165ab0219a)
 
+2. This is a scatter plot of same house sale dataset. It shows the data of bedrooms numbers.
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/66b43d05-a8ed-4183-b67b-4ce8c3cb0303)](https://vizhub.com/RenoBlitz/863d85988dce4e72a29395566ca8b0e5)
 
 
 ## Open Questions
