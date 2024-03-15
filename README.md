@@ -73,9 +73,6 @@ The second sketch is a barchart of features in the dataset. The main interaction
 ![0314_3](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/4610e8d7-23d4-4d53-9d30-b22efaeac614)
 The last sketch is a map data visualization. The data dots will be shown in the map with different sizes or colors. The interaction will also be hovering and filtering. The data visualization is used for solving the third question about houses' area.
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
-
 
 ## Prototypes
 
