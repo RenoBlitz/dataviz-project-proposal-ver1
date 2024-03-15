@@ -65,7 +65,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 ![0314_1](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/7c52a5b2-14de-48de-ba39-4602635a6adf)
-The first sketch shows a features of the data. The content that receives the user's focus will be displayed in a larger size in the plot. The text in the picture can be interacted with, and relevant data content can be quickly located by clicking on it. This data visualization focuses on solving users' problems in quickly finding and locating target data and filtering data through data visualization.
+The first sketch shows features of the data. The content that receives the user's focus will be displayed in a larger size in the plot. The text in the picture can be interacted with, and relevant data content can be quickly located by clicking on it. This data visualization focuses on solving users' problems in quickly finding and locating target data and filtering data through data visualization.
 
 ![0314_2](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/ca169f69-3322-4e93-a5a8-02fbe31af179)
 The second sketch is a barchart of features in the dataset. The main interaction is hover. When user move their mouse on the bars, it will show the specific data values. There will also be a filter to change the input data for the data visualization. The visualization focuses on solving the problems of comparison questions which is 2nd question of Questions & Tasks section. For example, we can use bar chart to compare the price of houses; what number of bedrooms is popular for consumers.
