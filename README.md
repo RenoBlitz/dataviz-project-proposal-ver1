@@ -58,7 +58,7 @@ sqft_lot15 [float]: The square footage of the land lots of the nearest 15 neighb
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Does “view” have a significant effect on “price”? 
- * What size is most popular? The number of bedrooms and bathrooms? The square footage?
+ * What size is most popular? The number of bedrooms and bathrooms?
  * In which areas are houses more popular? How much impact does location have on price?
  * Provide fast filter and references for user to help them make a judgment on houses’ values.
 
