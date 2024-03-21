@@ -57,10 +57,15 @@ sqft_lot15 [float]: The square footage of the land lots of the nearest 15 neighb
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * Does “view” have a significant effect on “price”? 
- * What size is most popular? The number of bedrooms and bathrooms?
- * In which areas are houses more popular? How much impact does location have on price?
- * Provide fast filter and references for user to help them make a judgment on houses’ values.
+ 1. What are the relationships between house price and pther features?
+    /What is most valuable feature of a house?                   ------(price vs. other features)
+
+ 2. How do house price change over time?                         ------(price vs. date, yr_built and yr_renovated)
+
+ 3. The house sale situation of different region?
+    Users may be interested in the houses in specific area. The data visualization should help them learn more about the house sales history.        ------(e.g. price vs. region)
+
+ 4. Users may have a price or some requirements about for the houses in their mind. Need a data visualization to help them find some similar houses as references.
 
 ## Sketches
 
@@ -81,6 +86,15 @@ The last sketch is a map data visualization. The data dots will be shown in the 
 
 2. This is a scatter plot of same house sale dataset. It shows the data of bedrooms numbers.
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/66b43d05-a8ed-4183-b67b-4ce8c3cb0303)](https://vizhub.com/RenoBlitz/863d85988dce4e72a29395566ca8b0e5)
+
+3. Parallel Coordinates Plot learned and built in week 10. It is very helpful interactive data visualization to check houses under filters.
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver2/assets/156150328/fd36955c-7716-458d-be27-d6523e40eca0)](https://vizhub.com/RenoBlitz/ba9065894b904333896aa25fd933f48b)
+
+## Scope hope to achieve
+
+ 1. Build at least 4 data visualization for solving the questions or tasks.
+ 2. Improve and optimize the design so that all visualizations have a relatively unified style.
+ 3. Have relatively practical interactive content for each data visualization.
 
 
 ## Open Questions
