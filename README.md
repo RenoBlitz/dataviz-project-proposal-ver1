@@ -76,7 +76,13 @@ The first sketch shows features of the data. The content that receives the user'
 The second sketch is a barchart of features in the dataset. The main interaction is hover. When user move their mouse on the bars, it will show the specific data values. There will also be a filter to change the input data for the data visualization. The visualization focuses on solving the problems of comparison questions which is 2nd question of Questions & Tasks section. For example, we can use bar chart to compare the price of houses; what number of bedrooms is popular for consumers.
 
 ![0314_3](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/4610e8d7-23d4-4d53-9d30-b22efaeac614)
-The last sketch is a map data visualization. The data dots will be shown in the map with different sizes or colors. The interaction will also be hovering and filtering. The data visualization is used for solving the third question about houses' area.
+The 3rd sketch is a map data visualization. The data dots will be shown in the map with different sizes or colors. The interaction will also be hovering and filtering. The data visualization is used for solving the third question about houses' area.
+
+![IMG_0112](https://github.com/RenoBlitz/dataviz-project-proposal-ver2/assets/156150328/e48c6360-b32a-4be6-a4e4-33837b752c44)
+This is a new sketch about Parallel Coordinates Plot learned in week 10. It is very useful data visualization which can used for solving task 4. With filters, users can check houses that meet their requirements.
+
+![IMG_0113](https://github.com/RenoBlitz/dataviz-project-proposal-ver2/assets/156150328/86ec0610-bdef-472e-8fac-be16aefdf1d5)
+The last sketch is for solving qeustion 2. The line chart can show us the situation of housing price change over years.
 
 
 ## Prototypes
