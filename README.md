@@ -99,8 +99,11 @@ The last sketch is a map data visualization. The data dots will be shown in the 
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+Having some troubles making map visualization. Still learning and trying to figure out the right approach.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 11: Finish designing visualizations and building them in VizHub.
+Week 12: Tweak and optimize visualizations to solve questions and do the tasks.
+Week 13: Make sure that all interactive content work correctly.
+Week 14: Deal with those last problems and do the final integration.
