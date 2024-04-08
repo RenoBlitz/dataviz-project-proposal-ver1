@@ -113,3 +113,7 @@ Week 11: Finish designing visualizations and building them in VizHub.
 Week 12: Tweak and optimize visualizations to solve questions and do the tasks.
 Week 13: Make sure that all interactive content work correctly.
 Week 14: Deal with those last problems and do the final integration.
+
+## Self-Critique
+
+## Reprioritization
