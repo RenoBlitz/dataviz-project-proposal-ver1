@@ -57,7 +57,7 @@ sqft_lot15 [float]: The square footage of the land lots of the nearest 15 neighb
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- 1. What are the relationships between house price and pther features?
+ 1. What are the relationships between house price and other features?
     /What is most valuable feature of a house?                   ------(price vs. other features)
 
  2. How do house price change over time?                         ------(price vs. date, yr_built and yr_renovated)
