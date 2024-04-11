@@ -116,4 +116,12 @@ Week 14: Deal with those last problems and do the final integration.
 
 ## Self-Critique
 
+I will evaluate the work I have completed so far based on my Question & Task Section. 
+
+For the first point, the question I raised was the relationship between the price of a house and its various attributes. This question is intended to identify those things that have a greater impact on home prices and are often what home buyers need to pay attention to. To answer this question, my design uses a Bar Chart and a Scatter Plot. My current job has met my requirements to a certain extent. Bar Chart displays Categorical data information better. I think users can use it to perform the comparison work they need. Scatter Plot is not very good at presenting continuous data. The reason may be that the amount of data is too small. But overall, they all have certain effects. I will continue to optimize the interactive content and beautify these visualizations in the future.
+
+The second point is about how house prices change over time. I haven't been able to complete this part of the work, but through studying other people's work I have some ideas and am now working hard to implement them. It should be done soon. 
+
+The last part is about user usage. Since home buyers usually have some needs of their own, to facilitate users to filter out data with reference values according to their own needs, I want to create a data visualization with corresponding interactive functions. When we learned about Parallel Coordinates with Brushing, I found that it fits this need very well.It works very well on my House Sale data. By box-selecting the corresponding data range, I can match the corresponding data for reference. Best of all, I can filter multiple data at the same time. For example, if I want to know the approximate price of a house with 2-3 bedrooms and a living area of 1000-1300 sqare, I can use this kind of data visualization. I will continue to adjust this data visualization later, especially in terms of size and color, so that it can display relevant data more clearly.
+
 ## Reprioritization
