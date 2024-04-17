@@ -62,10 +62,7 @@ The following tasks and questions will drive the visualization and interaction d
 
  2. How do house price change over time?                         ------(price vs. date, yr_built and yr_renovated)
 
- 3. The house sale situation of different region?
-    Users may be interested in the houses in specific area. The data visualization should help them learn more about the house sales history.        ------(e.g. price vs. region)
-
- 4. Users may have a price or some requirements about for the houses in their mind. Need a data visualization to help them find some similar houses as references.
+ 3. Users may have a price or some requirements about for the houses in their mind. Need a data visualization to help them find some similar houses as references.
 
 ## Sketches
 
