@@ -128,4 +128,6 @@ In the next work, I must complete time-related data visualization content as soo
 ## Updates so far
 1. Removed the map visualization. To solve the questions and do the tasks, map visualization cannot provide enough help even it provides some spatial information.
 
-2. Added a new line chart related to Question 2 (Price over time). The time is based on the fearture 'yr_built'. It is helpful on making a simple prediction of future house prices.
+2. Added a new line chart related to Question 2 (Price over time). The time is based on the fearture 'yr_built'. It is helpful on making a simple prediction of future house prices. This visualization will be shown in Prototypes section.
+
+3. For all visualizations, white will be used as the main background color and blue as the theme color. The colors of the remaining details will be designed based on the visualization. These will be updated soon.
