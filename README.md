@@ -95,7 +95,7 @@ The last sketch is for solving qeustion 2. The line chart can show us the situat
 
 ## Scope hope to achieve
 
- 1. Build at least 4 data visualization for solving the questions or tasks.
+ 1. Build data visualizations with interactions for solving the questions or tasks.
  2. Improve and optimize the design so that all visualizations have a relatively unified style.
  3. Have relatively practical interactive content for each data visualization.
 
@@ -124,3 +124,8 @@ The last part is about user usage. Since home buyers usually have some needs of 
 ## Reprioritization
 
 In the next work, I must complete time-related data visualization content as soon as possible. Then I need to optimize the design of my interactive content and implement them. At the end of this, I will confirm how to beautify the visualizations based on how they look.
+
+## Updates so far
+1. Removed the map visualization. To solve the questions and do the tasks, map visualization cannot provide enough help even it provides some spatial information.
+
+2. Added a new line chart related to Question 2 (Price over time). The time is based on the fearture 'yr_built'. It is helpful on making a simple prediction of future house prices.
