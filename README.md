@@ -88,10 +88,14 @@ The last sketch is for solving qeustion 2. The line chart can show us the situat
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/85bdc6ef-4b2a-44ba-99d4-3fa5f1faa13d)](https://vizhub.com/RenoBlitz/dc6d2e5ee64b4797981647165ab0219a)
 
 2. This is a scatter plot of same house sale dataset. It shows the data of bedrooms numbers.
-[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/66b43d05-a8ed-4183-b67b-4ce8c3cb0303)](https://vizhub.com/RenoBlitz/863d85988dce4e72a29395566ca8b0e5)
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/8778a6b7-b5e8-4536-b1be-ab98900772a3)](https://vizhub.com/RenoBlitz/863d85988dce4e72a29395566ca8b0e5)
 
 3. Parallel Coordinates Plot learned and built in week 10. It is very helpful interactive data visualization to check houses under filters.
-[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver2/assets/156150328/fd36955c-7716-458d-be27-d6523e40eca0)](https://vizhub.com/RenoBlitz/ba9065894b904333896aa25fd933f48b)
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/b8e1b189-8fae-4e43-ab29-ec1f57551abf)](https://vizhub.com/RenoBlitz/ba9065894b904333896aa25fd933f48b)
+
+4. The line chart is is used for answering the question of how price changes over the time. because the dataset is small, there are only data from 2014 and 2015.
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/4a2813e8-78fb-4fd3-979e-b972dfec9db0)](https://vizhub.com/RenoBlitz/46db0bff7b7f4fc597aa4d0091cb0f30)
+
 
 ## Scope hope to achieve
 
@@ -128,4 +132,6 @@ In the next work, I must complete time-related data visualization content as soo
 ## Updates so far
 1. Removed the map visualization. To solve the questions and do the tasks, map visualization cannot provide enough help even it provides some spatial information.
 
-2. Added a new line chart related to Question 2 (Price over time). The time is based on the fearture 'yr_built'. It is helpful on making a simple prediction of future house prices. This visualization will be shown in Prototypes section.
+2. Added a new line chart related to Question 2 (Price over time). The time is based on the fearture 'yr_built'. It is helpful on making a simple prediction of future house prices. This visualization are shown in Prototypes section now.
+
+3. Adjusted the colors and layout of some visualizations. The color of Parallel Coordinates Plot and the position of menus and plot in Scatter Plot. The image of prototypes are updated, you can check it.
