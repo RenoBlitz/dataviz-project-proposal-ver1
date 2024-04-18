@@ -85,15 +85,15 @@ The last sketch is for solving qeustion 2. The line chart can show us the situat
 ## Prototypes
 
 1. This is a bar chart of another house sale dataset. It shows the top 10 houses with largest living area. 
-[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/58724652-1eba-4c2e-a96e-db9f875ef170)](https://vizhub.com/RenoBlitz/dc6d2e5ee64b4797981647165ab0219a)
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/58724652-1eba-4c2e-a96e-db9f875ef170)](https://vizhub.com/RenoBlitz/3bf4497f3c694151bdcc0becf8bd4345)
 
-2. This is a scatter plot of same house sale dataset. It shows the data of bedrooms numbers.
+3. This is a scatter plot of same house sale dataset. It shows the data of bedrooms numbers.
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/8778a6b7-b5e8-4536-b1be-ab98900772a3)](https://vizhub.com/RenoBlitz/863d85988dce4e72a29395566ca8b0e5)
 
-3. Parallel Coordinates Plot learned and built in week 10. It is very helpful interactive data visualization to check houses under filters.
+4. Parallel Coordinates Plot learned and built in week 10. It is very helpful interactive data visualization to check houses under filters.
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/b8e1b189-8fae-4e43-ab29-ec1f57551abf)](https://vizhub.com/RenoBlitz/ba9065894b904333896aa25fd933f48b)
 
-4. The line chart is is used for answering the question of how price changes over the time. because the dataset is small, there are only data from 2014 and 2015.
+5. The line chart is is used for answering the question of how price changes over the time. because the dataset is small, there are only data from 2014 and 2015.
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/4a2813e8-78fb-4fd3-979e-b972dfec9db0)](https://vizhub.com/RenoBlitz/46db0bff7b7f4fc597aa4d0091cb0f30)
 
 
