@@ -85,7 +85,7 @@ The last sketch is for solving qeustion 2. The line chart can show us the situat
 ## Prototypes
 
 1. This is a bar chart of another house sale dataset. It shows the top 10 houses with largest living area. 
-[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver1/assets/156150328/85bdc6ef-4b2a-44ba-99d4-3fa5f1faa13d)](https://vizhub.com/RenoBlitz/dc6d2e5ee64b4797981647165ab0219a)
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/58724652-1eba-4c2e-a96e-db9f875ef170)](https://vizhub.com/RenoBlitz/dc6d2e5ee64b4797981647165ab0219a)
 
 2. This is a scatter plot of same house sale dataset. It shows the data of bedrooms numbers.
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/8778a6b7-b5e8-4536-b1be-ab98900772a3)](https://vizhub.com/RenoBlitz/863d85988dce4e72a29395566ca8b0e5)
