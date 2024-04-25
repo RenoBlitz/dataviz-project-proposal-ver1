@@ -88,7 +88,7 @@ The last sketch is for solving qeustion 2. The line chart can show us the situat
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/58724652-1eba-4c2e-a96e-db9f875ef170)](https://vizhub.com/RenoBlitz/3bf4497f3c694151bdcc0becf8bd4345)
 
 3. This is a scatter plot of same house sale dataset. It shows the data of bedrooms numbers.
-[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/8778a6b7-b5e8-4536-b1be-ab98900772a3)](https://vizhub.com/RenoBlitz/863d85988dce4e72a29395566ca8b0e5)
+[![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/8778a6b7-b5e8-4536-b1be-ab98900772a3)](https://vizhub.com/RenoBlitz/865bae28d4ec4f9583c328a4053f0c45)
 
 4. Parallel Coordinates Plot learned and built in week 10. It is very helpful interactive data visualization to check houses under filters.
 [![image](https://github.com/RenoBlitz/dataviz-project-proposal-ver4/assets/156150328/b8e1b189-8fae-4e43-ab29-ec1f57551abf)](https://vizhub.com/RenoBlitz/ba9065894b904333896aa25fd933f48b)
