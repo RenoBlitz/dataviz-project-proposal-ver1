@@ -60,7 +60,7 @@ The following tasks and questions will drive the visualization and interaction d
  1. What are the relationships between house price and other features?
     /What is most valuable feature of a house?                   ------(price vs. other features)
 
- 2. How do house price change over time?                         ------(price vs. date, yr_built and yr_renovated)
+ 2. How does house price change over time?                         ------(price vs. date, yr_built and yr_renovated)
 
  3. Users may have a price or some requirements about for the houses in their mind. Need a data visualization to help them find some similar houses as references.
 
